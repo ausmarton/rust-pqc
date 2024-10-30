@@ -1,2 +1,2 @@
-# rust_pqc_algorithms
-Basic implementations of the Post Quantum Crypto algorithms approved by NIST using Rust
+# rust-pqc
+Basic implementations of the Post Quantum Crypto algorithms using Rust

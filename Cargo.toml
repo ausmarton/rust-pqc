@@ -1,0 +1,10 @@
+[package]
+name = "rust-pqc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pqcrypto = "0.5"       # Example for some Kyber and Dilithium implementations
+blake3 = "1.3"         # For fast hashing in SPHINCS+
+rand = "0.8"           # For randomness in key generation
+
