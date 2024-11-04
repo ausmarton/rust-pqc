@@ -7,4 +7,5 @@ edition = "2021"
 pqcrypto = "0.5"       # Example for some Kyber and Dilithium implementations
 blake3 = "1.3"         # For fast hashing in SPHINCS+
 rand = "0.8"           # For randomness in key generation
-
+fhe = "0.1.0-beta.4"
+fhe-traits = "0.1.0-beta.4"
